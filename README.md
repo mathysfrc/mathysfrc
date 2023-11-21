@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mathysf41@gmail.com**
 
-- 📄 Know about my experiences [I completed Symfony PHP training and am currently studying JavaScript, React and GraphQL](I completed Symfony PHP training and am currently studying JavaScript, React and GraphQL)
+- 📄 Know about my experiences I completed Symfony PHP training and am currently studying JavaScript, React and GraphQL
 
 - ⚡ Fun fact **I am determined, motivated and I think I am quite funny**
 
