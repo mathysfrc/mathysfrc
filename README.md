@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **GraphQL and React**
 
-- 📫 How to reach me **mathysf41@gmail.com**
+- 📫 How to reach me ? : **mathysf41@gmail.com**
 
 - 📄 Know about my experiences : I completed Symfony PHP training and am currently studying JavaScript, React and GraphQL
 
-- ⚡ Fun fact **I am determined, motivated and I think I am quite funny**
+- ⚡ Facts : **I am determined, motivated and I think I am quite funny**
 
 <p align="center">
     <img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
