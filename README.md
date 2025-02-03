@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GraphQL and React**
 
-- 📫 How to reach me ? : **mathysf41@gmail.com**
+- 📫 How to reach me ? : **mathysf41@gmail.com or https://zecawebstudio.fr** 
 
 - 📄 Know about my experiences : I completed Symfony PHP training and am currently studying JavaScript, React and GraphQL
 
